@@ -4,6 +4,7 @@ A simple rule-based AI chatbot built with Python and Tkinter for the CodeAlpha i
 **About**
 
 This is a simple AI Chatbot built using Python and Tkinter. It can understand basic greetings, answer simple questions, and respond politely to user inputs. The chatbot is designed to demonstrate the fundamentals of conversational AI in a desktop GUI application. 
+
 ![Chatbot Screenshot](code.png)
 
 **Features**
@@ -25,4 +26,5 @@ This is a simple AI Chatbot built using Python and Tkinter. It can understand ba
  •The GUI allows users to type messages and see chatbot responses in real time.
 
  •Responses are generated based on predefined keywords and simple rules.
+ 
  ![Chatbot Screenshot](output.png)
